@@ -1,6 +1,11 @@
 
-
 @import './main.css';
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
 
 
 body {
@@ -8,5 +13,4 @@ body {
 }
 
 
-// index.scss üzerinden cssleri uygulama genelinde load etmeliyiz.
 
